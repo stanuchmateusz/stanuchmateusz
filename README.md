@@ -3,5 +3,6 @@
 <br>
 <strong>.bash_aliases
 <br>
-[bash_aliases.txt](https://github.com/stanuchmateusz/stanuchmateusz/files/8400510/bash_aliases.txt)
+
+[bash_aliases.txt](https://github.com/stanuchmateusz/stanuchmateusz/files/8400704/bash_aliases.txt)
 </strong>
